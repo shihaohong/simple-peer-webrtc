@@ -1,0 +1,13 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "shihaohong",
+  "license": "MIT",
+  "dependencies": {
+    "simple-peer": "^8.1.1"
+  }
+}
